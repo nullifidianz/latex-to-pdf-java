@@ -1,0 +1,17 @@
+.styled-text-area .text {
+    -fx-font-family: monospace;
+}
+
+.styled-text-area .command {
+    -fx-fill: blue;
+    -fx-font-weight: bold;
+}
+
+.styled-text-area .comment {
+    -fx-fill: gray;
+    -fx-font-style: italic;
+}
+
+.styled-text-area .math {
+    -fx-fill: green;
+}
